@@ -9,12 +9,13 @@ This is a social network API built using Express.js, MongoDB, and Mongoose. It a
 3. Start the server with `npm run dev`.
 
 ## Usage
-- Use Insomnia to test the API endpoints.
+- Use Insomnia or its equivalent to test the API endpoints.
 
 ## Screenshot
+![image](sna/Screenshot%202024-08-18%20010111.png)
 
 ## Walkthrough Video
-[Watch the video](link)
+[Watch the video](https://drive.google.com/file/d/1uR3fn9nd9AmQASkncntzDRD9XiTlt4m7/view)
 
 ## API Endpoints
 - `/api/users`
